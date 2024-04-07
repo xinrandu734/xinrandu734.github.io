@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-   - block: publication
+  - block: publication
     content:
       title: Publications
       filters:
