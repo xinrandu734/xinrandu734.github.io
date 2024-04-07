@@ -50,6 +50,24 @@ sections:
       username: admin
     design:
       columns: '1'
+   - block: publication
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      columns: '1'
+    - block: project
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+        featured_only: false
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
