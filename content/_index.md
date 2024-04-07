@@ -59,7 +59,7 @@ sections:
         featured_only: false
     design:
       columns: '1'
-    - block: project
+  - block: project
     content:
       title: Projects
       filters:
