@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 杜昕冉
+title: Xinran Du
 
 # Name pronunciation (optional)
-name_pronunciation: Du Xinran
+#name_pronunciation: Du Xinran
 
 # Full name (for SEO)
 first_name: Xinran
@@ -56,7 +56,7 @@ skills:
       - name: R
         description: ''
         percent: 70
-        icon: rstudio
+        icon: devicon/rstudio
         icon_pack: devicon
       - name: Data Analysis
         description: ''
@@ -67,7 +67,7 @@ skills:
         description: ''
         percent: 100
         icon: osf
-        icon_pack: academicons
+        icon_pack: ai
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

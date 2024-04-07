@@ -12,5 +12,5 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 
-url_pdf: "external-project/poster.pdf"
+url_pdf: "uploads/poster1.pdf"
 ---
